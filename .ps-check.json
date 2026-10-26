@@ -1,0 +1,4 @@
+{
+  "versionFile": "checker/version_check.lua",
+  "versionPattern": "CHECKER_VERSION = '([^']+)'"
+}
