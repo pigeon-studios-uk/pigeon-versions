@@ -1,9 +1,21 @@
 {
   "schema": 2,
   "brand": "Pigeon Studios",
-  "updated": "2026-10-22",
+  "updated": "2026-10-29",
   "api": "https://raw.githubusercontent.com/pigeon-studios-uk/pigeon-versions/main/api/v2/{slug}.json",
   "resources": {
+    "pg-pumpkins": {
+      "name": "Pumpkin Hunt",
+      "kind": "paid",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-10-29",
+      "title": "First release",
+      "security": false,
+      "repository": null,
+      "store": "https://pigeon-studios.tebex.store/package/7775809",
+      "api": "api/v2/pg-pumpkins.json"
+    },
     "pg-shrike": {
       "name": "Shrike",
       "kind": "paid",
