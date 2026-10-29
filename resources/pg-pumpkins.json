@@ -13,6 +13,17 @@
   "minimum_version": null,
   "releases": [
     {
+      "version": "1.0.1",
+      "date": "2026-10-29",
+      "title": "Update checker",
+      "security": false,
+      "url": null,
+      "notes": [
+        "The server console now says on start whether a newer version of Pumpkin Hunt is out.",
+        "Set pigeon_update_check to quiet or off in server.cfg to change it."
+      ]
+    },
+    {
       "version": "1.0.0",
       "date": "2026-10-29",
       "title": "First release",

@@ -5,16 +5,13 @@
   "status": "active",
   "notice": null,
   "latest": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "date": "2026-10-29",
-    "title": "First release",
+    "title": "Update checker",
     "security": false,
     "highlights": [
-      "A Halloween pumpkin hunt with 200 placed pumpkins across Los Santos and Blaine County.",
-      "A hand-drawn hunter's journal with progress, milestones, a leaderboard and settings.",
-      "Jumpscares players can turn off, or keep without the flashing effects.",
-      "Admin commands to add, remove and export spots in game.",
-      "Qbox, QBCore, ESX or standalone, in 15 languages."
+      "The server console now says on start whether a newer version of Pumpkin Hunt is out.",
+      "Set pigeon_update_check to quiet or off in server.cfg to change it."
     ],
     "url": null
   },
