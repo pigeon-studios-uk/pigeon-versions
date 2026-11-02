@@ -5,15 +5,13 @@
   "status": "active",
   "notice": null,
   "latest": {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "date": "2026-11-02",
-    "title": "First release",
+    "title": "Update checker",
     "security": false,
     "highlights": [
-      "Cartridge bays, two probes that both have to land, visible wires, re-energizing and drive stun.",
-      "A server-enforced exposure limit, evidence items and a firing log with /taserlog.",
-      "Five HUD styles players can choose from, a safety switch, dual lasers and a weapon light.",
-      "Qbox, QBCore, ESX or standalone, most inventories, in 15 languages."
+      "The server console now says on start whether a newer version of Petrel is out.",
+      "Set pigeon_update_check to quiet or off in server.cfg to change it."
     ],
     "url": null
   },
