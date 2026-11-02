@@ -1,9 +1,21 @@
 {
   "schema": 2,
   "brand": "Pigeon Studios",
-  "updated": "2026-10-29",
+  "updated": "2026-11-02",
   "api": "https://raw.githubusercontent.com/pigeon-studios-uk/pigeon-versions/main/api/v2/{slug}.json",
   "resources": {
+    "pg-petrel": {
+      "name": "Petrel (Taser System)",
+      "kind": "paid",
+      "status": "active",
+      "version": "2.0.0",
+      "date": "2026-11-02",
+      "title": "First release",
+      "security": false,
+      "repository": null,
+      "store": "https://pigeon-studios.tebex.store/package/7786134",
+      "api": "api/v2/pg-petrel.json"
+    },
     "pg-pumpkins": {
       "name": "Pumpkin Hunt",
       "kind": "paid",

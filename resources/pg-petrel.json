@@ -1,0 +1,29 @@
+{
+  "$schema": "../schema/resource.schema.json",
+  "slug": "pg-petrel",
+  "name": "Petrel (Taser System)",
+  "kind": "paid",
+  "status": "active",
+  "notice": null,
+  "links": {
+    "repository": null,
+    "store": "https://pigeon-studios.tebex.store/package/7786134",
+    "support": "https://pigeonstudios.co.uk/support/"
+  },
+  "minimum_version": null,
+  "releases": [
+    {
+      "version": "2.0.0",
+      "date": "2026-11-02",
+      "title": "First release",
+      "security": false,
+      "url": null,
+      "notes": [
+        "Cartridge bays, two probes that both have to land, visible wires, re-energizing and drive stun.",
+        "A server-enforced exposure limit, evidence items and a firing log with /taserlog.",
+        "Five HUD styles players can choose from, a safety switch, dual lasers and a weapon light.",
+        "Qbox, QBCore, ESX or standalone, most inventories, in 15 languages."
+      ]
+    }
+  ]
+}
