@@ -1,0 +1,30 @@
+{
+  "$schema": "../schema/resource.schema.json",
+  "slug": "pigeon-notes",
+  "name": "Pigeon Notes",
+  "kind": "free",
+  "status": "active",
+  "notice": null,
+  "links": {
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-notes",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  },
+  "minimum_version": null,
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-03",
+      "title": "First release",
+      "security": false,
+      "url": "https://github.com/pigeon-studios-uk/pigeon-notes/releases/tag/v1.0.0",
+      "notes": [
+        "Write a note and stick it on a wall, table or floor",
+        "Notes stay through restarts, with no database",
+        "Paper or post-it, signed or not",
+        "Limits, expiry and taking notes down",
+        "Discord log for moderation"
+      ]
+    }
+  ]
+}

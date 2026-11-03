@@ -184,6 +184,18 @@
       "store": null,
       "api": "api/v2/pigeon-no-weapons-in-vehicles.json"
     },
+    "pigeon-notes": {
+      "name": "Pigeon Notes",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-03",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-notes",
+      "store": null,
+      "api": "api/v2/pigeon-notes.json"
+    },
     "pigeon-property-watch": {
       "name": "Pigeon Property Watch",
       "kind": "free",
