@@ -1,0 +1,30 @@
+{
+  "$schema": "../schema/resource.schema.json",
+  "slug": "pigeon-engine",
+  "name": "Pigeon Engine",
+  "kind": "free",
+  "status": "active",
+  "notice": null,
+  "links": {
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-engine",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  },
+  "minimum_version": null,
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-03",
+      "title": "First release",
+      "security": false,
+      "url": "https://github.com/pigeon-studios-uk/pigeon-engine/releases/tag/v1.0.0",
+      "notes": [
+        "Start and stop the engine with one key",
+        "Engines keep running when you get out",
+        "Engines stay off until you start them",
+        "Damaged engines struggle, then won't start at all",
+        "Wheels stay turned when you park"
+      ]
+    }
+  ]
+}
