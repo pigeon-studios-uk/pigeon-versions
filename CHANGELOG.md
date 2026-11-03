@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Changed
 
+- The README says releases are added by each project's `publish` job, with the manual steps kept for corrections.
 - Links, badges and the update checker's registry address now point to the Pigeon Studios GitHub organisation, [pigeon-studios-uk](https://github.com/pigeon-studios-uk). Old WelshPigeon links still redirect, and copies already installed keep working.
 
 ## [2.0.0] - 2026-10-18

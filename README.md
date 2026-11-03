@@ -87,7 +87,7 @@ The checker sends one GET request with no information about the server, its play
    }
    ```
 
-3. Add the resource to the registry (next section) **before** its first release, or the console will say it isn't in the registry.
+3. The first release's `publish` job adds the resource to the registry. Until then the console says it isn't in the registry. `New-PigeonProject.ps1` does steps 1 and 2 for a new resource.
 
 The checker needs nothing else: no dependencies, no configuration file, no exports. It's wrapped in its own scope, so it can't clash with the resource's code. For escrowed resources it can be escrowed or left open; it contains nothing secret.
 
@@ -148,7 +148,9 @@ Editors that understand JSON Schema (such as VS Code) will autocomplete and chec
 
 ## Publishing a release
 
-Do this **after** the release is published in the resource's own repository or store, so the "Get it" link works when owners see it:
+Each project's `publish` job does this on a release tag, from the version's CHANGELOG section. For a free release it waits for the GitHub release first, so the "Get it" link works when owners see it. See the [handbook](https://gitlab.com/pigeon-studios/handbook/-/blob/main/docs/ci.md#releases).
+
+To add or correct a release by hand:
 
 1. Add the new release at the **top** of `releases` in `resources/<slug>.json`.
 2. Run the builder:
