@@ -1,0 +1,29 @@
+{
+  "schema": 2,
+  "slug": "pigeon-seatbelt",
+  "name": "Pigeon Seatbelt",
+  "status": "active",
+  "notice": null,
+  "latest": {
+    "version": "1.0.0",
+    "date": "2026-11-03",
+    "title": "First release",
+    "security": false,
+    "highlights": [
+      "Buckle up with one key, with a click",
+      "Unbuckled players go through the windscreen in a hard crash",
+      "A warning light and a chime while unbuckled",
+      "A jolt, a blurred screen and a dazed walk after a hard crash",
+      "A state bag and exports for HUDs and police checks"
+    ],
+    "url": "https://github.com/pigeon-studios-uk/pigeon-seatbelt/releases/tag/v1.0.0"
+  },
+  "minimum_version": null,
+  "security_releases": [],
+  "links": {
+    "download": "https://github.com/pigeon-studios-uk/pigeon-seatbelt/releases/tag/v1.0.0",
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-seatbelt",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  }
+}
