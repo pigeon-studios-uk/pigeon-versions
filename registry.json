@@ -76,6 +76,18 @@
       "store": null,
       "api": "api/v2/pigeon-dice.json"
     },
+    "pigeon-driveby-rules": {
+      "name": "Pigeon Driveby Rules",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-03",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-driveby-rules",
+      "store": null,
+      "api": "api/v2/pigeon-driveby-rules.json"
+    },
     "pigeon-enhanced-check": {
       "name": "Pigeon Enhanced Check",
       "kind": "free",
