@@ -112,6 +112,18 @@
       "store": null,
       "api": "api/v2/pigeon-enhanced-check.json"
     },
+    "pigeon-lean-out": {
+      "name": "Pigeon Lean Out",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-03",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-lean-out",
+      "store": null,
+      "api": "api/v2/pigeon-lean-out.json"
+    },
     "pigeon-no-auto-helmet": {
       "name": "Pigeon No Auto Helmet",
       "kind": "free",

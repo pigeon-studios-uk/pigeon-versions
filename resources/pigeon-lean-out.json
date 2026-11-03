@@ -1,0 +1,30 @@
+{
+  "$schema": "../schema/resource.schema.json",
+  "slug": "pigeon-lean-out",
+  "name": "Pigeon Lean Out",
+  "kind": "free",
+  "status": "active",
+  "notice": null,
+  "links": {
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-lean-out",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  },
+  "minimum_version": null,
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-03",
+      "title": "First release",
+      "security": false,
+      "url": "https://github.com/pigeon-studios-uk/pigeon-lean-out/releases/tag/v1.0.0",
+      "notes": [
+        "Passengers lean out of the window with one key",
+        "Aim and shoot all the way round, with rifles and shotguns too",
+        "Every player sees it, through the game's own sync",
+        "Choose seats, vehicles, weapons and who can lean out",
+        "An in-game tuner to fit any vehicle"
+      ]
+    }
+  ]
+}
