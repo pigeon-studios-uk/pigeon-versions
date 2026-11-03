@@ -40,6 +40,18 @@
       "store": "https://pigeon-studios.tebex.store/package/7752922",
       "api": "api/v2/pg-shrike.json"
     },
+    "pg-vehicle-tamper": {
+      "name": "Vehicle Tamper",
+      "kind": "paid",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-02",
+      "title": "First release",
+      "security": false,
+      "repository": null,
+      "store": "https://pigeon-studios.tebex.store/package/7787287",
+      "api": "api/v2/pg-vehicle-tamper.json"
+    },
     "pigeon-dice": {
       "name": "Pigeon Dice",
       "kind": "free",

@@ -1,0 +1,28 @@
+{
+  "schema": 2,
+  "slug": "pg-vehicle-tamper",
+  "name": "Vehicle Tamper",
+  "status": "active",
+  "notice": null,
+  "latest": {
+    "version": "1.0.0",
+    "date": "2026-11-02",
+    "title": "First release",
+    "security": false,
+    "highlights": [
+      "Slash tyres, cut brake lines and sugar the tank, with a fuel line and a car bomb as options.",
+      "Every job takes time and skill checks, and the damage plays out gradually: tyres go down, brake fluid leaks, engines wear out.",
+      "Inspect, patch with duct tape, repair with a line repair kit, and defuse; every action checked by the server and logged with /tamperlog.",
+      "Qbox, QBCore, ESX or standalone, most inventories, targets and fuel resources, in 15 languages."
+    ],
+    "url": null
+  },
+  "minimum_version": null,
+  "security_releases": [],
+  "links": {
+    "download": "https://pigeon-studios.tebex.store/package/7787287",
+    "repository": null,
+    "store": "https://pigeon-studios.tebex.store/package/7787287",
+    "support": "https://pigeonstudios.co.uk/support/"
+  }
+}
