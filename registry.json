@@ -87,18 +87,6 @@
       "repository": "https://github.com/pigeon-studios-uk/pigeon-vehicle-access",
       "store": null,
       "api": "api/v2/pigeon-vehicle-access.json"
-    },
-    "ps-vending": {
-      "name": "ROCKDOVE Vending",
-      "kind": "paid",
-      "status": "active",
-      "version": "1.0.0",
-      "date": "2026-10-22",
-      "title": "First release",
-      "security": false,
-      "repository": null,
-      "store": "https://pigeonstudios.co.uk",
-      "api": "api/v2/ps-vending.json"
     }
   }
 }
