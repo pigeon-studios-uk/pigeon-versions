@@ -1,0 +1,29 @@
+{
+  "schema": 2,
+  "slug": "pigeon-bucket-monitor",
+  "name": "Pigeon Bucket Monitor",
+  "status": "active",
+  "notice": null,
+  "latest": {
+    "version": "1.0.0",
+    "date": "2026-11-03",
+    "title": "First release",
+    "security": false,
+    "highlights": [
+      "Every routing bucket change logged to Discord.",
+      "Players stuck outside the default bucket reported.",
+      "Likely cause shown, from resources that report it.",
+      "/bucket check, set, fix, list and snapshot for staff.",
+      "Character details with Qbox, QBCore or ESX."
+    ],
+    "url": "https://github.com/pigeon-studios-uk/pigeon-bucket-monitor/releases/tag/v1.0.0"
+  },
+  "minimum_version": null,
+  "security_releases": [],
+  "links": {
+    "download": "https://github.com/pigeon-studios-uk/pigeon-bucket-monitor/releases/tag/v1.0.0",
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-bucket-monitor",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  }
+}

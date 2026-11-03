@@ -1,0 +1,29 @@
+{
+  "$schema": "../schema/resource.schema.json",
+  "slug": "pigeon-no-blind-fire",
+  "name": "Pigeon No Blind Fire",
+  "kind": "free",
+  "status": "active",
+  "notice": null,
+  "links": {
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-no-blind-fire",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  },
+  "minimum_version": null,
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-03",
+      "title": "First release",
+      "security": false,
+      "url": "https://github.com/pigeon-studios-uk/pigeon-no-blind-fire/releases/tag/v1.0.0",
+      "notes": [
+        "Players in cover must aim out before they can shoot.",
+        "Taking cover, peeking and aiming work as normal.",
+        "A short message tells players why.",
+        "ox_lib notifications if you have it."
+      ]
+    }
+  ]
+}

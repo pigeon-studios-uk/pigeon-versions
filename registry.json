@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "brand": "Pigeon Studios",
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "api": "https://raw.githubusercontent.com/pigeon-studios-uk/pigeon-versions/main/api/v2/{slug}.json",
   "resources": {
     "pg-petrel": {
@@ -52,6 +52,18 @@
       "store": "https://pigeon-studios.tebex.store/package/7787287",
       "api": "api/v2/pg-vehicle-tamper.json"
     },
+    "pigeon-bucket-monitor": {
+      "name": "Pigeon Bucket Monitor",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-03",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-bucket-monitor",
+      "store": null,
+      "api": "api/v2/pigeon-bucket-monitor.json"
+    },
     "pigeon-dice": {
       "name": "Pigeon Dice",
       "kind": "free",
@@ -63,6 +75,66 @@
       "repository": "https://github.com/pigeon-studios-uk/pigeon-dice",
       "store": null,
       "api": "api/v2/pigeon-dice.json"
+    },
+    "pigeon-no-auto-helmet": {
+      "name": "Pigeon No Auto Helmet",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-03",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-no-auto-helmet",
+      "store": null,
+      "api": "api/v2/pigeon-no-auto-helmet.json"
+    },
+    "pigeon-no-blind-fire": {
+      "name": "Pigeon No Blind Fire",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-03",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-no-blind-fire",
+      "store": null,
+      "api": "api/v2/pigeon-no-blind-fire.json"
+    },
+    "pigeon-no-helmet-armour": {
+      "name": "Pigeon No Helmet Armour",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-03",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-no-helmet-armour",
+      "store": null,
+      "api": "api/v2/pigeon-no-helmet-armour.json"
+    },
+    "pigeon-no-npc-aircraft": {
+      "name": "Pigeon No NPC Aircraft",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-03",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-no-npc-aircraft",
+      "store": null,
+      "api": "api/v2/pigeon-no-npc-aircraft.json"
+    },
+    "pigeon-no-weapons-in-vehicles": {
+      "name": "Pigeon No Weapons In Vehicles",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-03",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-no-weapons-in-vehicles",
+      "store": null,
+      "api": "api/v2/pigeon-no-weapons-in-vehicles.json"
     },
     "pigeon-property-watch": {
       "name": "Pigeon Property Watch",

@@ -1,0 +1,29 @@
+{
+  "$schema": "../schema/resource.schema.json",
+  "slug": "pigeon-no-weapons-in-vehicles",
+  "name": "Pigeon No Weapons In Vehicles",
+  "kind": "free",
+  "status": "active",
+  "notice": null,
+  "links": {
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-no-weapons-in-vehicles",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  },
+  "minimum_version": null,
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-03",
+      "title": "First release",
+      "security": false,
+      "url": "https://github.com/pigeon-studios-uk/pigeon-no-weapons-in-vehicles/releases/tag/v1.0.0",
+      "notes": [
+        "Weapons stay holstered in the vehicles you list.",
+        "Restrict by spawn name or whole vehicle class.",
+        "No drive-bys, back to normal on getting out.",
+        "Works with ox_inventory."
+      ]
+    }
+  ]
+}

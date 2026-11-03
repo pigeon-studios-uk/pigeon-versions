@@ -1,0 +1,29 @@
+{
+  "$schema": "../schema/resource.schema.json",
+  "slug": "pigeon-no-npc-aircraft",
+  "name": "Pigeon No NPC Aircraft",
+  "kind": "free",
+  "status": "active",
+  "notice": null,
+  "links": {
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-no-npc-aircraft",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  },
+  "minimum_version": null,
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-03",
+      "title": "First release",
+      "security": false,
+      "url": "https://github.com/pigeon-studios-uk/pigeon-no-npc-aircraft/releases/tag/v1.0.0",
+      "notes": [
+        "Stops NPC planes, helicopters and blimps spawning.",
+        "No police or SWAT helicopters after wanted players.",
+        "Removes NPC aircraft that spawn anyway, with their crew.",
+        "Never touches players' aircraft or ones your scripts spawn."
+      ]
+    }
+  ]
+}
