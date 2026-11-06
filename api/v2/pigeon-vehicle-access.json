@@ -5,23 +5,19 @@
   "status": "active",
   "notice": null,
   "latest": {
-    "version": "1.0.0",
-    "date": "2026-10-18",
-    "title": "First release",
+    "version": "1.0.1",
+    "date": "2026-11-06",
+    "title": "Version 1.0.1",
     "security": false,
     "highlights": [
-      "Restrict vehicles by job and grade, duty, gang, ACE permission or whitelist.",
-      "The server checks drivers itself, and removes anyone who drives a stopped vehicle anyway.",
-      "Manage whitelists in game with /vehicleaccess, by server ID, citizen ID or Discord ID.",
-      "Supports Qbox (including multiple jobs) and QBCore.",
-      "Replaces Vehicle Lock."
+      "Links, badges and the update checker's registry address now point to the Pigeon Studios GitHub organisation, pigeon-studios-uk. Old WelshPigeon links still redirect, and copies already installed…"
     ],
-    "url": "https://github.com/pigeon-studios-uk/pigeon-vehicle-access/releases/tag/v1.0.0"
+    "url": "https://github.com/pigeon-studios-uk/pigeon-vehicle-access/releases/tag/v1.0.1"
   },
   "minimum_version": null,
   "security_releases": [],
   "links": {
-    "download": "https://github.com/pigeon-studios-uk/pigeon-vehicle-access/releases/tag/v1.0.0",
+    "download": "https://github.com/pigeon-studios-uk/pigeon-vehicle-access/releases/tag/v1.0.1",
     "repository": "https://github.com/pigeon-studios-uk/pigeon-vehicle-access",
     "store": null,
     "support": "https://pigeonstudios.co.uk/support/"
