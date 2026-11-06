@@ -5,23 +5,19 @@
   "status": "active",
   "notice": null,
   "latest": {
-    "version": "2.0.0",
-    "date": "2026-10-18",
-    "title": "A complete rewrite",
+    "version": "2.0.1",
+    "date": "2026-11-06",
+    "title": "Version 2.0.1",
     "security": false,
     "highlights": [
-      "Rolls with several parts, such as 2d6+1d4+3, plus keep and drop for highest and lowest.",
-      "Results float above the roller's head for players nearby who can see them.",
-      "Natural 20s and 1s are called out in chat and coloured above the roller's head.",
-      "Rolls are made on the server and sent only to players nearby in the same instance.",
-      "ox_lib and a /do command are no longer needed."
+      "Links, badges and the update checker's registry address now point to the Pigeon Studios GitHub organisation, pigeon-studios-uk. Old WelshPigeon links still redirect, and copies already installed…"
     ],
-    "url": "https://github.com/pigeon-studios-uk/pigeon-dice/releases/tag/v2.0.0"
+    "url": "https://github.com/pigeon-studios-uk/pigeon-dice/releases/tag/v2.0.1"
   },
   "minimum_version": null,
   "security_releases": [],
   "links": {
-    "download": "https://github.com/pigeon-studios-uk/pigeon-dice/releases/tag/v2.0.0",
+    "download": "https://github.com/pigeon-studios-uk/pigeon-dice/releases/tag/v2.0.1",
     "repository": "https://github.com/pigeon-studios-uk/pigeon-dice",
     "store": null,
     "support": "https://pigeonstudios.co.uk/support/"

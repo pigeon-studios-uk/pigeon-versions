@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "brand": "Pigeon Studios",
-  "updated": "2026-11-03",
+  "updated": "2026-11-06",
   "api": "https://raw.githubusercontent.com/pigeon-studios-uk/pigeon-versions/main/api/v2/{slug}.json",
   "resources": {
     "pg-petrel": {
@@ -68,9 +68,9 @@
       "name": "Pigeon Dice",
       "kind": "free",
       "status": "active",
-      "version": "2.0.0",
-      "date": "2026-10-18",
-      "title": "A complete rewrite",
+      "version": "2.0.1",
+      "date": "2026-11-06",
+      "title": "Version 2.0.1",
       "security": false,
       "repository": "https://github.com/pigeon-studios-uk/pigeon-dice",
       "store": null,
