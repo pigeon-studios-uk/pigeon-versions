@@ -1,0 +1,28 @@
+{
+  "$schema": "../schema/resource.schema.json",
+  "slug": "pigeon-no-idle-cam",
+  "name": "Pigeon No Idle Cam",
+  "kind": "free",
+  "status": "active",
+  "notice": null,
+  "links": {
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-no-idle-cam",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  },
+  "minimum_version": null,
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-07",
+      "title": "First release",
+      "security": false,
+      "url": "https://github.com/pigeon-studios-uk/pigeon-no-idle-cam/releases/tag/v1.0.0",
+      "notes": [
+        "No idle camera on foot",
+        "No idle camera in vehicles",
+        "Choose either or both"
+      ]
+    }
+  ]
+}
