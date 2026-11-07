@@ -13,6 +13,17 @@
   "minimum_version": null,
   "releases": [
     {
+      "version": "1.2.0",
+      "date": "2026-11-07",
+      "title": "Version 1.2.0",
+      "security": false,
+      "url": "https://github.com/pigeon-studios-uk/pigeon-vehicle-access/releases/tag/v1.2.0",
+      "notes": [
+        "ESX support. Job rules, grades and onDuty now work with es_extended, alongside Qbox and QBCore. ESX has no gangs, so gang rules still need Qbox or QBCore.",
+        "Whitelists accept ESX character identifiers, such as char1:2f8a…, and a server ID whitelists an ESX player's current character."
+      ]
+    },
+    {
       "version": "1.1.0",
       "date": "2026-11-07",
       "title": "Version 1.1.0",
