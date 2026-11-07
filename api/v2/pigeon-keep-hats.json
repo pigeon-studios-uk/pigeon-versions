@@ -1,0 +1,27 @@
+{
+  "schema": 2,
+  "slug": "pigeon-keep-hats",
+  "name": "Pigeon Keep Hats",
+  "status": "active",
+  "notice": null,
+  "latest": {
+    "version": "1.0.0",
+    "date": "2026-11-07",
+    "title": "First release",
+    "security": false,
+    "highlights": [
+      "Hats, helmets and glasses stay on in fights",
+      "Every player",
+      "Survives respawns and model changes"
+    ],
+    "url": "https://github.com/pigeon-studios-uk/pigeon-keep-hats/releases/tag/v1.0.0"
+  },
+  "minimum_version": null,
+  "security_releases": [],
+  "links": {
+    "download": "https://github.com/pigeon-studios-uk/pigeon-keep-hats/releases/tag/v1.0.0",
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-keep-hats",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  }
+}
