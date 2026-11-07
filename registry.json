@@ -232,6 +232,18 @@
       "store": null,
       "api": "api/v2/pigeon-no-npc-loot.json"
     },
+    "pigeon-no-one-shot-headshots": {
+      "name": "Pigeon No One-Shot Headshots",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-07",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-no-one-shot-headshots",
+      "store": null,
+      "api": "api/v2/pigeon-no-one-shot-headshots.json"
+    },
     "pigeon-no-weapons-in-vehicles": {
       "name": "Pigeon No Weapons In Vehicles",
       "kind": "free",

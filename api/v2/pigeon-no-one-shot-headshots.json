@@ -1,0 +1,27 @@
+{
+  "schema": 2,
+  "slug": "pigeon-no-one-shot-headshots",
+  "name": "Pigeon No One-Shot Headshots",
+  "status": "active",
+  "notice": null,
+  "latest": {
+    "version": "1.0.0",
+    "date": "2026-11-07",
+    "title": "First release",
+    "security": false,
+    "highlights": [
+      "No one-shot headshot kills on players",
+      "Every gun, every player",
+      "An export to turn headshots back on for one player"
+    ],
+    "url": "https://github.com/pigeon-studios-uk/pigeon-no-one-shot-headshots/releases/tag/v1.0.0"
+  },
+  "minimum_version": null,
+  "security_releases": [],
+  "links": {
+    "download": "https://github.com/pigeon-studios-uk/pigeon-no-one-shot-headshots/releases/tag/v1.0.0",
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-no-one-shot-headshots",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  }
+}
