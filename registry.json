@@ -160,6 +160,18 @@
       "store": null,
       "api": "api/v2/pigeon-no-blind-fire.json"
     },
+    "pigeon-no-combat-roll": {
+      "name": "Pigeon No Combat Roll",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-07",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-no-combat-roll",
+      "store": null,
+      "api": "api/v2/pigeon-no-combat-roll.json"
+    },
     "pigeon-no-helmet-armour": {
       "name": "Pigeon No Helmet Armour",
       "kind": "free",
