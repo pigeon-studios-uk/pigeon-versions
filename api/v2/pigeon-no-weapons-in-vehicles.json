@@ -5,22 +5,20 @@
   "status": "active",
   "notice": null,
   "latest": {
-    "version": "1.0.0",
-    "date": "2026-11-03",
-    "title": "First release",
+    "version": "1.1.0",
+    "date": "2026-11-07",
+    "title": "Version 1.1.0",
     "security": false,
     "highlights": [
-      "Weapons stay holstered in the vehicles you list.",
-      "Restrict by spawn name or whole vehicle class.",
-      "No drive-bys, back to normal on getting out.",
-      "Works with ox_inventory."
+      "22 more languages, so it now comes in 23: Czech, Danish, German, Spanish, Estonian, Finnish, French, Croatian, Hungarian, Indonesian, Italian, Dutch, Norwegian, Polish, Portuguese, Brazilian…",
+      "Config.Locale = 'auto', the new default: it follows ox_lib's language (setr ox:locale \"de\" in server.cfg) and is English when that isn't set. A config that already says 'en' stays in English."
     ],
-    "url": "https://github.com/pigeon-studios-uk/pigeon-no-weapons-in-vehicles/releases/tag/v1.0.0"
+    "url": "https://github.com/pigeon-studios-uk/pigeon-no-weapons-in-vehicles/releases/tag/v1.1.0"
   },
   "minimum_version": null,
   "security_releases": [],
   "links": {
-    "download": "https://github.com/pigeon-studios-uk/pigeon-no-weapons-in-vehicles/releases/tag/v1.0.0",
+    "download": "https://github.com/pigeon-studios-uk/pigeon-no-weapons-in-vehicles/releases/tag/v1.1.0",
     "repository": "https://github.com/pigeon-studios-uk/pigeon-no-weapons-in-vehicles",
     "store": null,
     "support": "https://pigeonstudios.co.uk/support/"
