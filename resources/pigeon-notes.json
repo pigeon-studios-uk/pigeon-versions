@@ -13,6 +13,17 @@
   "minimum_version": null,
   "releases": [
     {
+      "version": "1.1.0",
+      "date": "2026-11-07",
+      "title": "Version 1.1.0",
+      "security": false,
+      "url": "https://github.com/pigeon-studios-uk/pigeon-notes/releases/tag/v1.1.0",
+      "notes": [
+        "22 more languages, so it now comes in 23: Czech, Danish, German, Spanish, Estonian, Finnish, French, Croatian, Hungarian, Indonesian, Italian, Dutch, Norwegian, Polish, Portuguese, Brazilian…",
+        "Config.Locale = 'auto', the new default: it follows ox_lib's language (setr ox:locale \"de\" in server.cfg) and is English when that isn't set. A config that already says 'en' stays in English."
+      ]
+    },
+    {
       "version": "1.0.0",
       "date": "2026-11-03",
       "title": "First release",
