@@ -1,0 +1,29 @@
+{
+  "schema": 2,
+  "slug": "pigeon-no-wanted",
+  "name": "Pigeon No Wanted",
+  "status": "active",
+  "notice": null,
+  "latest": {
+    "version": "1.0.0",
+    "date": "2026-11-07",
+    "title": "First release",
+    "security": false,
+    "highlights": [
+      "No wanted level, or a cap you choose",
+      "No AI police, SWAT, army or helicopters",
+      "No AI ambulances and fire engines turning up",
+      "Each AI service chosen on its own",
+      "No random police NPCs"
+    ],
+    "url": "https://github.com/pigeon-studios-uk/pigeon-no-wanted/releases/tag/v1.0.0"
+  },
+  "minimum_version": null,
+  "security_releases": [],
+  "links": {
+    "download": "https://github.com/pigeon-studios-uk/pigeon-no-wanted/releases/tag/v1.0.0",
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-no-wanted",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  }
+}
