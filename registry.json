@@ -112,6 +112,18 @@
       "store": null,
       "api": "api/v2/pigeon-enhanced-check.json"
     },
+    "pigeon-hands-up": {
+      "name": "Pigeon Hands Up",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-08",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-hands-up",
+      "store": null,
+      "api": "api/v2/pigeon-hands-up.json"
+    },
     "pigeon-keep-hats": {
       "name": "Pigeon Keep Hats",
       "kind": "free",

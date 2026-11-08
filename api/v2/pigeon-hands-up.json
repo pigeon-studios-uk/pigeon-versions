@@ -1,0 +1,29 @@
+{
+  "schema": 2,
+  "slug": "pigeon-hands-up",
+  "name": "Pigeon Hands Up",
+  "status": "active",
+  "notice": null,
+  "latest": {
+    "version": "1.0.0",
+    "date": "2026-11-08",
+    "title": "First release",
+    "security": false,
+    "highlights": [
+      "Hands up on a key, walking or standing still",
+      "Kneel with hands behind the head",
+      "No shooting, aiming or melee while surrendering",
+      "A handsUp state bag and exports for police resources",
+      "23 languages"
+    ],
+    "url": "https://github.com/pigeon-studios-uk/pigeon-hands-up/releases/tag/v1.0.0"
+  },
+  "minimum_version": null,
+  "security_releases": [],
+  "links": {
+    "download": "https://github.com/pigeon-studios-uk/pigeon-hands-up/releases/tag/v1.0.0",
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-hands-up",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  }
+}
