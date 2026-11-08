@@ -1,0 +1,30 @@
+{
+  "$schema": "../schema/resource.schema.json",
+  "slug": "pigeon-vehicle-doors",
+  "name": "Pigeon Vehicle Doors",
+  "kind": "free",
+  "status": "active",
+  "notice": null,
+  "links": {
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-vehicle-doors",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  },
+  "minimum_version": null,
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-08",
+      "title": "First release",
+      "security": false,
+      "url": "https://github.com/pigeon-studios-uk/pigeon-vehicle-doors/releases/tag/v1.0.0",
+      "notes": [
+        "/door, /window, /hood and /trunk, with optional keys",
+        "One door, all of them, your own or the nearest",
+        "Windows kept on the vehicle for everyone",
+        "Checked by the server, locks respected",
+        "23 languages"
+      ]
+    }
+  ]
+}
