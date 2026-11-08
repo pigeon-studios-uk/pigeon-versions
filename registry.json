@@ -424,6 +424,18 @@
       "store": null,
       "api": "api/v2/pigeon-quiet-city.json"
     },
+    "pigeon-radio-off": {
+      "name": "Pigeon Radio Off",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-08",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-radio-off",
+      "store": null,
+      "api": "api/v2/pigeon-radio-off.json"
+    },
     "pigeon-ragdoll": {
       "name": "Pigeon Ragdoll",
       "kind": "free",
