@@ -1,0 +1,30 @@
+{
+  "$schema": "../schema/resource.schema.json",
+  "slug": "pigeon-cruise-control",
+  "name": "Pigeon Cruise Control",
+  "kind": "free",
+  "status": "active",
+  "notice": null,
+  "links": {
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-cruise-control",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  },
+  "minimum_version": null,
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-08",
+      "title": "First release",
+      "security": false,
+      "url": "https://github.com/pigeon-studios-uk/pigeon-cruise-control/releases/tag/v1.0.0",
+      "notes": [
+        "Cruise control on Y, holding the speed up and down hills",
+        "Off when braking, the handbrake, a crash or leaving the seat",
+        "Faster and slower keys, mph or km/h",
+        "Exports for HUDs and other resources",
+        "23 languages"
+      ]
+    }
+  ]
+}
