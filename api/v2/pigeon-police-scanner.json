@@ -1,0 +1,29 @@
+{
+  "schema": 2,
+  "slug": "pigeon-police-scanner",
+  "name": "Pigeon Police Scanner",
+  "status": "active",
+  "notice": null,
+  "latest": {
+    "version": "1.0.0",
+    "date": "2026-11-08",
+    "title": "First release",
+    "security": false,
+    "highlights": [
+      "GTA's own police radio reports, in and near emergency vehicles and at stations",
+      "Optional for on-duty police anywhere, on Qbox, QBCore and ESX",
+      "/scanner to turn it off, remembered",
+      "/scanner test to listen to every report",
+      "23 languages"
+    ],
+    "url": "https://github.com/pigeon-studios-uk/pigeon-police-scanner/releases/tag/v1.0.0"
+  },
+  "minimum_version": null,
+  "security_releases": [],
+  "links": {
+    "download": "https://github.com/pigeon-studios-uk/pigeon-police-scanner/releases/tag/v1.0.0",
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-police-scanner",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  }
+}
