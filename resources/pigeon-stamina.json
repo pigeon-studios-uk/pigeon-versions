@@ -1,0 +1,28 @@
+{
+  "$schema": "../schema/resource.schema.json",
+  "slug": "pigeon-stamina",
+  "name": "Pigeon Stamina",
+  "kind": "free",
+  "status": "active",
+  "notice": null,
+  "links": {
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-stamina",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  },
+  "minimum_version": null,
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-08",
+      "title": "First release",
+      "security": false,
+      "url": "https://github.com/pigeon-studios-uk/pigeon-stamina/releases/tag/v1.0.0",
+      "notes": [
+        "Infinite stamina, if you want it",
+        "Or stamina that drains and recovers at your rates",
+        "Sprinting and swimming both covered"
+      ]
+    }
+  ]
+}

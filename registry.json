@@ -448,6 +448,18 @@
       "store": null,
       "api": "api/v2/pigeon-seatbelt.json"
     },
+    "pigeon-stamina": {
+      "name": "Pigeon Stamina",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-08",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-stamina",
+      "store": null,
+      "api": "api/v2/pigeon-stamina.json"
+    },
     "pigeon-vehicle-access": {
       "name": "Pigeon Vehicle Access",
       "kind": "free",
