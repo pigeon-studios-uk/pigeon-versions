@@ -1,0 +1,28 @@
+{
+  "schema": 2,
+  "slug": "pg-dumpster-diving",
+  "name": "Dumpster Diving",
+  "status": "active",
+  "notice": null,
+  "latest": {
+    "version": "1.1.0",
+    "date": "2026-11-08",
+    "title": "First release",
+    "security": false,
+    "highlights": [
+      "Storage in every dumpster, hiding inside with the world muffled, and a lid for every dumpster, from open to padlocked.",
+      "Carry dead NPCs and downed players and dump them in a bin.",
+      "Police can knock, pull people out and inspect for prints, blood, tamper marks and 400 clues.",
+      "Qbox, QBCore, ESX or standalone, six inventories, any target or a built-in prompt, in 23 languages."
+    ],
+    "url": null
+  },
+  "minimum_version": null,
+  "security_releases": [],
+  "links": {
+    "download": "https://pigeon-studios.tebex.store/package/7798445",
+    "repository": null,
+    "store": "https://pigeon-studios.tebex.store/package/7798445",
+    "support": "https://pigeonstudios.co.uk/support/"
+  }
+}

@@ -4,6 +4,18 @@
   "updated": "2026-11-08",
   "api": "https://raw.githubusercontent.com/pigeon-studios-uk/pigeon-versions/main/api/v2/{slug}.json",
   "resources": {
+    "pg-dumpster-diving": {
+      "name": "Dumpster Diving",
+      "kind": "paid",
+      "status": "active",
+      "version": "1.1.0",
+      "date": "2026-11-08",
+      "title": "First release",
+      "security": false,
+      "repository": null,
+      "store": "https://pigeon-studios.tebex.store/package/7798445",
+      "api": "api/v2/pg-dumpster-diving.json"
+    },
     "pg-petrel": {
       "name": "Petrel (Taser System)",
       "kind": "paid",
