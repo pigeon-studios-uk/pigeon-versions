@@ -208,6 +208,18 @@
       "store": null,
       "api": "api/v2/pigeon-lean-out.json"
     },
+    "pigeon-me-do": {
+      "name": "Pigeon Me and Do",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-08",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-me-do",
+      "store": null,
+      "api": "api/v2/pigeon-me-do.json"
+    },
     "pigeon-no-air-control": {
       "name": "Pigeon No Air Control",
       "kind": "free",

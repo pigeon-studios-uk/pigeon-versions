@@ -1,0 +1,30 @@
+{
+  "$schema": "../schema/resource.schema.json",
+  "slug": "pigeon-me-do",
+  "name": "Pigeon Me and Do",
+  "kind": "free",
+  "status": "active",
+  "notice": null,
+  "links": {
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-me-do",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  },
+  "minimum_version": null,
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-08",
+      "title": "First release",
+      "security": false,
+      "url": "https://github.com/pigeon-studios-uk/pigeon-me-do/releases/tag/v1.0.0",
+      "notes": [
+        "/me and /do above heads and in nearby chat",
+        "Character names on Qbox, QBCore and ESX",
+        "Tidied and rate-limited by the server",
+        "Colours, distance, time and names in the config",
+        "23 languages"
+      ]
+    }
+  ]
+}
