@@ -316,6 +316,18 @@
       "store": null,
       "api": "api/v2/pigeon-no-seat-shuffle.json"
     },
+    "pigeon-no-vehicle-weapons": {
+      "name": "Pigeon No Vehicle Weapons",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-08",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-no-vehicle-weapons",
+      "store": null,
+      "api": "api/v2/pigeon-no-vehicle-weapons.json"
+    },
     "pigeon-no-wanted": {
       "name": "Pigeon No Wanted",
       "kind": "free",

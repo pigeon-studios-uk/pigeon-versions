@@ -1,0 +1,29 @@
+{
+  "$schema": "../schema/resource.schema.json",
+  "slug": "pigeon-no-vehicle-weapons",
+  "name": "Pigeon No Vehicle Weapons",
+  "kind": "free",
+  "status": "active",
+  "notice": null,
+  "links": {
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-no-vehicle-weapons",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  },
+  "minimum_version": null,
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-08",
+      "title": "First release",
+      "security": false,
+      "url": "https://github.com/pigeon-studios-uk/pigeon-no-vehicle-weapons/releases/tag/v1.0.0",
+      "notes": [
+        "Every vehicle's mounted guns, cannons and missiles off",
+        "Searchlights and water cannons kept",
+        "Keep any weapon, or every weapon on a vehicle you choose",
+        "Works in gunner seats too"
+      ]
+    }
+  ]
+}
