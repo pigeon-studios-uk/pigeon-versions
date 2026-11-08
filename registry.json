@@ -64,6 +64,18 @@
       "store": "https://pigeon-studios.tebex.store/package/7787287",
       "api": "api/v2/pg-vehicle-tamper.json"
     },
+    "pigeon-afk-kick": {
+      "name": "Pigeon AFK Kick",
+      "kind": "free",
+      "status": "active",
+      "version": "1.0.0",
+      "date": "2026-11-08",
+      "title": "First release",
+      "security": false,
+      "repository": "https://github.com/pigeon-studios-uk/pigeon-afk-kick",
+      "store": null,
+      "api": "api/v2/pigeon-afk-kick.json"
+    },
     "pigeon-bucket-monitor": {
       "name": "Pigeon Bucket Monitor",
       "kind": "free",
