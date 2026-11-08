@@ -1,0 +1,29 @@
+{
+  "schema": 2,
+  "slug": "pigeon-crouch",
+  "name": "Pigeon Crouch",
+  "status": "active",
+  "notice": null,
+  "latest": {
+    "version": "1.0.0",
+    "date": "2026-11-08",
+    "title": "First release",
+    "security": false,
+    "highlights": [
+      "Crouch on Left Ctrl, with GTA's own crouched walk and aim",
+      "In place of Ctrl's stealth mode on foot",
+      "No crouch-jumping",
+      "A crouching state bag, exports and an event for other resources",
+      "23 languages"
+    ],
+    "url": "https://github.com/pigeon-studios-uk/pigeon-crouch/releases/tag/v1.0.0"
+  },
+  "minimum_version": null,
+  "security_releases": [],
+  "links": {
+    "download": "https://github.com/pigeon-studios-uk/pigeon-crouch/releases/tag/v1.0.0",
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-crouch",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  }
+}
