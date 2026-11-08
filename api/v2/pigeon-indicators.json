@@ -1,0 +1,29 @@
+{
+  "schema": 2,
+  "slug": "pigeon-indicators",
+  "name": "Pigeon Indicators",
+  "status": "active",
+  "notice": null,
+  "latest": {
+    "version": "1.0.0",
+    "date": "2026-11-08",
+    "title": "First release",
+    "security": false,
+    "highlights": [
+      "Indicators and hazards on the arrow keys",
+      "Synced for every player, even ones who arrive later",
+      "Indicators off by themselves after a turn",
+      "Driver only, checked by the server",
+      "23 languages"
+    ],
+    "url": "https://github.com/pigeon-studios-uk/pigeon-indicators/releases/tag/v1.0.0"
+  },
+  "minimum_version": null,
+  "security_releases": [],
+  "links": {
+    "download": "https://github.com/pigeon-studios-uk/pigeon-indicators/releases/tag/v1.0.0",
+    "repository": "https://github.com/pigeon-studios-uk/pigeon-indicators",
+    "store": null,
+    "support": "https://pigeonstudios.co.uk/support/"
+  }
+}
